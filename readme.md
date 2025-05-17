@@ -1,6 +1,6 @@
 #  Build a Private CA with OpenSSL — Secure Internal Services
 
-## 📘 Summary
+##  Summary
 
 This project demonstrates how I built a **Private Certificate Authority (CA)** using OpenSSL on Kali Linux to solve a common security problem: **securing internal communications** using SSL/TLS when external certificate providers aren't feasible.
 
